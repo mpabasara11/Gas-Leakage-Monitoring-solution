@@ -14,3 +14,17 @@ Main functions
 Technologies used
 AJAX (Asynchronous JavaScript and XML) -used to display Realtime data on webpage sent by the controller
 XMLHttpRequest -AJAX uses this protocol for requesting to the web server
+
+
+Hardware Setup
+
+
+•	NodeMCU Version 3    -it has built in WIFI and could find at affordable price in the market
+
+•	MQ-2 Gas Sensors *2   -comes in a module which we can easily connect with a controller board
+
+•	RGB Units *2 -comes with built in resistors so that we don’t need to connect those though resistors (board Outputs 3.5V could harm the leds otherwise)
+
+•	Active Buzzers*2 - no specific reason
+
+
